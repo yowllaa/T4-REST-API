@@ -1,0 +1,22 @@
+{
+  "name": "t4-rest-api",
+  "version": "1.0.0",
+  "description": "Tugas 4 Pemrograman Web Lanjut - REST API aplikasi favorit dengan Express",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node --watch index.js",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "rest-api",
+    "pwl",
+    "tugas-4"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
